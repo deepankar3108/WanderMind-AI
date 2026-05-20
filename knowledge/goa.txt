@@ -1,0 +1,1 @@
+PLACEHOLDER ONLY: Replace this file with verified travel information about Goa. No destination facts are provided in this sample. This text exists only to test file loading, chunking, embedding, indexing, and retrieval.
