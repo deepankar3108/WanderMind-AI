@@ -1,0 +1,4 @@
+WanderMind RAG Test:
+The secret test destination is Blue Mango Valley.
+The recommended visit duration is exactly 4 days.
+The special test code is WM2026.
